@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cumulos is up and running!
+title: Second one!
 ---
 
 This is the second post for Cumulos Blog on GitHub.
