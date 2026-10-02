@@ -84,3 +84,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Publish the hidden .well-known folder (Tesla Fleet API public key)
+include:
+  - .well-known
